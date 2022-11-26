@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+.columns {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+}
+
+
+.price {
+  list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+
+.price:hover {
+  box-shadow: 0 18px 22px 0 rgb(255, 0, 98);
+}
+
+
+.price .header {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+
+.price li {
+  border-bottom: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.price .grey {
+  background-color: #ffc5c5;
+  font-size: 20px;
+}
+
+/* The "Sign Up" button */
+.button {
+  background-color: #000000;
+  border: none;
+  color: crimson;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+.button:hover{
+    color: beige    ;
+}
+.list-box{
+    background-color: whitesmoke;
+}

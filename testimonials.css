@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+.container {
+  border: 2px solid rgb(69, 2, 2);
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+}
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+
+.container span {
+  font-size: 28px;
+  margin-right: 15px;
+}
+.container .test{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.our{
+font-family: 'Dancing Script', monospace;
+font-weight: bolder;
+}

@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 * {
   padding: 0;
   margin: 0;
@@ -9,8 +10,8 @@
 
 body{
 	background: #bdc3c7; 
-background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
-background: linear-gradient(to right	, #2c3e50, #bdc3c7);
+background: -webkit-linear-gradient(to right, #98ccff, #bdc3c7);
+background: linear-gradient(to right	, #5ba9f8, #bdc3c7);
 }
 header {
   background-image: url("img/2.jpg");
@@ -213,4 +214,7 @@ position: relative;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+}
+.member{
+  font-family: 'Pacifico', cursive;
 }
