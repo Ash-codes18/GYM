@@ -54,6 +54,10 @@
 }
 .button:hover{
     color: beige    ;
+    fill: crimson;
+}
+.button{
+  transition-duration: 0.4s;
 }
 .list-box{
     background-color: whitesmoke;
