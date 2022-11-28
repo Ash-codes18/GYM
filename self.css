@@ -14,7 +14,7 @@ background: -webkit-linear-gradient(to right, #98ccff, #bdc3c7);
 background: linear-gradient(to right	, #5ba9f8, #bdc3c7);
 }
 header {
-  background-image: url("img/2.jpg");
+  background-image: url("img/4.jpg");
   width: 100vw;
   height: 100vh;
   background-size: cover;
@@ -166,9 +166,11 @@ position: relative;
 	align-items: center;
 	justify-content: center;
 	display: flex ;
+  border:3px solid beige;
 }
 .gallery2{
 	font-size: 0;
+  border:3px solid beige;
 	align-items: center;
 	justify-content: center;
 	display: flex;
@@ -178,43 +180,50 @@ position: relative;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border:3px solid beige;
 }
 .gallery4{
 	font-size: 0;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border:3px solid beige;
 }
 .gallery5{
 	font-size: 0;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border:3px solid beige;
 }
 .gallery6{
 	font-size: 0;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border:3px solid beige;
 }
 .gallery7{
 	font-size: 0;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border:3px solid beige;
 }
 .gallery8{
 	font-size: 0;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border:3px solid beige;
 }
 .gallery9{
 	font-size: 0;
 	align-items: center;
 	justify-content: center;
 	display: flex;
+  border: 3px solid beige;
 }
-.member{
+.member{   
   font-family: 'Pacifico', cursive;
 }
