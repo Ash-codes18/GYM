@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://kit.fontawesome.com/1dc055f0a8.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="payment.css">
+    <title>payment</title>   
+</head>
+<body>
+    <center>
+    <script src="test.js"></script>
+</center>
+    <header class="h">
+        <a href="self.html">
+            <img src="img/use-removebg.png" alt="Logo" class="logo">
+        </a>   
+        <p><a href="index.html">Home</a></p>
+    </header>
+    <div class="outer-box">
+    <div class="container">
+        <div class="heading">
+            <p style="font-size: 1.2rem; font-family: Verdana; font-weight: 500; color: rgb(71, 66, 66);"><i class="fa-solid fa-cart-shopping" style="margin: 5px;"></i>Shopping Cart</p>
+        </div>
+        <div class="c_name">
+            <p>PAYMENT METHOD</p>
+            <div class="card_s"><img src="https://thumbs.dreamstime.com/b/web-183282979.jpg" alt=""></div>
+            <div class="card_s"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Rupay-Logo.png" alt=""></div>
+            <div class="card_s"><img src="https://thumbs.dreamstime.com/b/editorial-mastercard-logo-icon-incorporated-american-multinational-financial-services-corporation-headquartered-141611543.jpg" alt=""></div>
+        </div>
+        <form action="">
+            <label for="card">Card Number</label>
+            <input type="number" name="number" id="card_n" maxlength="9" placeholder="0000 XXXX XXXX 0000">
+            <div class="ex_cv">
+            <div class="ex_"><label for="e_date">Expiry Date</label>
+            <input type="text" name="expirydate" id="e_date" placeholder="MM/YY"></div>
+            <div class="cv_"><label for="CVV">CVV</label>
+            <input type="password" name="cvv" id="CVV" maxlength="3" placeholder="CVV"></div>
+            </div>
+            <label for="name">Card Holder Name</label>
+            <input type="text" name="name" id="name" placeholder="Card Holder Name">
+            <input type="submit" name="payment" id="submit" value="Payment">
+        </form>
+    </div>
+    </div>
+</body>
+</html>
