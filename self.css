@@ -76,13 +76,13 @@ nav .side {
   position: relative;
   display: block;
   width: 70%;
-  top: 38%;
+  top: 35%;
   left: 2%;
 }
 
 .t h1 {
   color: white;
-  font-size: 45px;
+  font-size: 39px;
   text-transform: uppercase;
   font-family: "Quicksand", sans-serif;
   letter-spacing: 2px;
@@ -101,32 +101,16 @@ nav .side {
   font-family: "Quicksand", sans-serif;
 }
 .para {
-  top: 19%;
+  top: 22%;
   left: 2%;
   position: relative;
   display: block;
 }
-/* .cont{
-	margin-left: 10%;
-}
-.cnt{
-	margin-top: 10%;
-	width: 100vw;
-	height: 1800px;
-}
-.firsth{
-	margin-left: 75%;
-}
-.first{
-	margin-left: 60%;
-	margin-bottom: 100%;
-} */
 .cont {
   display: flex;
   align-items: center;
   justify-content: center;
-  /* margin-top: 10%; */
-  padding: 10%;
+ padding: 10%;
 }
 
 .imag {
