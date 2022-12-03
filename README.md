@@ -9,7 +9,6 @@ Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Ash-cod
 
 <br>
 <h2>Description</h3>
-<h3>
 <i>#GYM</i>
 <br>
 <i>#6_AM_Fitness</i>
@@ -18,6 +17,6 @@ Released under <a href="/LICENSE">MIT</a> by <a href="https://github.com/Ash-cod
 <img src="img/9.jpg" width="80%">
 <br>
 <br>
-A gym website made using <em>HTML</em> , CSS and JS.<br>
+A gym website made using <em>HTML</em> , <em>CSS</em> and <em>JS</em>.<br>
 It includes several animations, hover effects background images and videos, and gradients.<br>
 The GYM is called 6 AM fitness
