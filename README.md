@@ -88,6 +88,12 @@ git clone https://github.com/Ash-codes18/GYM.git
 
 <br>
 <br>
-A gym website made using <em>HTML</em> , CSS and JS.<br>
-It includes several animations, hover effects background images and videos, and gradients.<br>
-The GYM is called 6 AM fitness
+ 
+# References
+
+| Name | Link |
+| --- | ---|
+| W3C School | https://www.w3schools.com |
+| Stack Overflow | https://stackoverflow.com |
+| Github | https://github.com |
+| uiGradients | https://uigradients.com |
