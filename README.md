@@ -52,10 +52,6 @@ A Website Built using HTML, CSS, and Javascript.
 - A beautiful and pleasant user interface.
 
 <br>
-<h2>Description</h3>
-<h3>
-<i>#GYM</i>
-<br>
 
 # Installation
 
