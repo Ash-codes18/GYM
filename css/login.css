@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+        *{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            font-family: 'Lato', sans-serif;
+        }
+        .container{
+            width: 100vw;
+            height: 100vh;
+            background: linear-gradient(to top right,#FFC988, #E288F9);
+        }
+        .inner-box{
+            width: 400px;
+            margin: 0 auto;
+            padding: 20px 40px;
+            position: relative;
+            background: linear-gradient(to top left, #ffffffff, #ffffff33);
+            backdrop-filter: blur(8px);
+            top: 30%;
+            transform: translateY(-40%);
+            z-index: 2;
+            box-shadow: 2px 2px 5px #8d4a9e;
+        }
+        .sign-heading h1{
+            font-size: 2.5rem; 
+            color:#212121
+        }
+        .sign-heading p{
+            font-size: 0.8rem;
+            color: #555;
+        }
+        .sign-body{
+            margin:20px 0;
+        }
+        input{
+            margin-top: 10px;
+            margin: 10px 0;
+            padding: 10px;
+            display: block;
+            width: 100%;
+            border: 2px solid #cccc;
+            border-radius: 5px;
+        }
+        #submit{
+            color: #ffffffff;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+            background-color: #FF8196;
+        }
+        .sign-footer p{
+            text-align: center;
+        }
+        .circle{
+            background: linear-gradient(to bottom left, #ffffffff, #ffffff33);
+            width: 80px;
+            height: 80px;
+            border-radius: 70px;
+            position: absolute;
+            top: 100px;
+            left: 400px;
+            z-index: 3;
+            text-align: center;
+        }
+        i{
+            position: absolute;
+            top: 26px;
+            font-size: 2rem;
+            color:#3b2e2e;
+            left: 25px;
+        }
+        .design{
+            background: linear-gradient(to bottom left, #ffffffff, #ffffff33);
+            width: 100px;
+            height: 100px;
+            border-radius: 100px;
+            position: absolute;
+        }
+        .c2{
+            width: 200px;
+            height: 200px;
+            top: 100px;
+            left: 40px;
+        }
+        .c3{
+            background: linear-gradient(to top right,#ffffff, #ffffff33);
+            top: 100px;
+            right: 140px;
+            height: 150px;
+            width: 150px;
+            border-radius: 0;
+        }
+        .c4{
+            bottom: 100px;
+            right: 40px;
+        }
+        .tri{
+            width: 0;
+            height: 0;
+            position: absolute;
+            border-top: 0;
+            border-left: 100px solid transparent;
+            border-right:100px solid transparent;
+            border-bottom:100px solid #8effae;
+            margin: 2rem;
+            top: 370px;
+            left: 200px;
+        }

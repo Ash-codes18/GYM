@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.outer-box{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to top left, #3ed8ff, #a8f5ff);
+    background-color: aqua;
+}
+.inner-box{
+    width: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 25%;
+    transform: translateY(-40%);
+    padding: 20px 40px;
+    /*background-color: #ffffff09;*/
+    background: linear-gradient(to top left, #ffffffff,#ffffff33);
+    backdrop-filter: blur(8px);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #2773a5;
+    z-index: 2;
+}
+.signup_header h1{
+    font-size: 2.5rem;
+    color: #212121;
+}
+.signup_header p{
+    font-size: 0.8rem;
+    color: #555;
+}
+.signup_body{
+    margin: 20px 0;
+}
+.signup_body p{
+    margin: 10px 0;
+}
+.signup_body p label{
+    display: block;
+    font-weight: bold;
+}
+.signup_body p input{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #cccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    margin-top: 4px;
+}
+.signup_body p input:hover{
+    border: 2px solid #58a5d8;
+}
+.signup_body p input[type="submit"]{
+    background-color: #3498db;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+.signup_body p input[type="submit"]:hover{
+    background-color: #2773a5;
+}
+.signup_footer p{
+    color: #555;
+    text-align: center;
+}.signup_footer p a{
+    color: #2773a5;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: linear-gradient(to top right, #ffffff33, #ffffff);
+    position: absolute;
+}
+.c1{
+    top: 100px;
+    left: 40px;
+}
+.c2{
+    bottom: 100px;
+    right: 40px ;
+}

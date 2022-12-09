@@ -34,12 +34,12 @@ A Website Built using HTML, CSS, and Javascript.
 
 # Demo
 
-<img src="img\w1.png">
-<img src="img\w2.png">
-<img src="img\w3.png">
-<img src="img\w4.png">
-<img src="img\w5.png">
-<img src="img\w6.png">
+<img src="images\w1.png">
+<img src="images\w2.png">
+<img src="images\w3.png">
+<img src="images\w4.png">
+<img src="images\w5.png">
+<img src="images\w6.png">
 
 <br>
 <br>
@@ -51,6 +51,10 @@ A Website Built using HTML, CSS, and Javascript.
 - Smooth scrolling in each section 
 - A beautiful and pleasant user interface.
 
+<br>
+<h2>Description</h3>
+<h3>
+<i>#GYM</i>
 <br>
 
 # Installation
@@ -84,7 +88,7 @@ git clone https://github.com/Ash-codes18/GYM.git
 
 <br>
 <br>
- 
+
 # References
 
 | Name | Link |
