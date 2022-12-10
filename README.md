@@ -51,11 +51,6 @@ A Website Built using HTML, CSS, and Javascript.
 - Smooth scrolling in each section 
 - A beautiful and pleasant user interface.
 
-<br>
-<h2>Description</h3>
-<h3>
-<i>#GYM</i>
-<br>
 
 # Installation
 
