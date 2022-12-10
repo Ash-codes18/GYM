@@ -51,6 +51,8 @@ A Website Built using HTML, CSS, and Javascript.
 - Smooth scrolling in each section 
 - A beautiful and pleasant user interface.
 
+<br>
+<br>
 
 # Installation
 
