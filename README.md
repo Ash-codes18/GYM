@@ -1,4 +1,4 @@
-<div><img src="img/9.jpg" ></div>
+<div><img src="img/ashgym.jpg" ></div>
 
 <br><br>
 
