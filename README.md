@@ -74,7 +74,8 @@ git clone https://github.com/Ash-codes18/GYM.git
 <br>
 <br>
 > Or directly click the download button below
-<br>
+
+
 [![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/Ash-codes18/GYM/archive/refs/heads/main.zip)
 
 <br>
